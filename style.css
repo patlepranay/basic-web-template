@@ -39,7 +39,7 @@ body {
     top: 0;
     width: 130%;
     height: 95%;
-    background: linear-gradient( to right, rgba(54, 127, 213, 0.49), rgba(54, 127, 213, 0.49)), url("./assets/img/hero.jpg") center top no-repeat;
+    background: linear-gradient( to right, rgba(54, 127, 213, 0.49), rgba(11, 87, 87, 0.49)), url("./assets/img/hero.jpg") center / cover no-repeat;
     z-index: 0;
     /* filter: blur(4px); */
     border-radius: 0 0 50% 50%;
@@ -53,8 +53,8 @@ body {
     top: 0;
     width: 130%;
     height: 96%;
-    background: #70d300;
-    opacity: 0.2;
+    background: #0205b1;
+    opacity: 0.4;
     z-index: 0;
     border-radius: 0 0 50% 50%;
     transform: translateX(-50%) translateY(18px) rotate(2deg);
