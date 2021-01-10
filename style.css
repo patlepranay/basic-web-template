@@ -39,7 +39,7 @@ body {
     top: 0;
     width: 130%;
     height: 95%;
-    background: linear-gradient( to right, rgba(54, 127, 213, 0.49), rgba(54, 127, 213, 0.49)), url("./assets/img/hero.png") center top no-repeat;
+    background: linear-gradient( to right, rgba(54, 127, 213, 0.49), rgba(54, 127, 213, 0.49)), url("./assets/img/hero.jpg") center top no-repeat;
     z-index: 0;
     /* filter: blur(4px); */
     border-radius: 0 0 50% 50%;
